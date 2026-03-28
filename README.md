@@ -1,8 +1,8 @@
-Heart Disease Prediction - 5 ML Models
+# Heart Disease Prediction - 5 ML Models
 
-Assignment II: Supervised Machine Learning Models
+## Assignment II: Supervised Machine Learning Models
 
-Student Information
+### Student Information
 **Name:** Ayesha Sumbal
 **Course:** Introduction to Machine Learning
 **Submission Date:** April 10, 2026
@@ -38,5 +38,5 @@ This project compares **5 supervised machine learning models** for heart disease
 | Random Forest | 0.89 | 0.90 | 0.88 | 0.89 |
 | k-NN | 0.87 | 0.88 | 0.86 | 0.87 |
 
-** Best Model:** Random Forest with **89% accuracy**
+**Best Model:** Random Forest with **89% accuracy**
 
